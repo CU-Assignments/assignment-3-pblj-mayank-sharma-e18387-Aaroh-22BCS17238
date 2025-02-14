@@ -1,0 +1,22 @@
+Output(Question 1):-
+
+Code By Aaroh Gaur(22BCS17238)
+-24
+java.lang.ArithmeticException: Error: Cannot calculate the square root of a negative number
+
+--------------------------------------------------------------------------------------------------------------------------
+Output(Question 2):-
+
+Code by Aaroh Gaur (22BCS17238)
+Enter you Pin : 1234
+Enter Amount to Withdraw : 2000000
+java.lang.ArithmeticException: Error: Insufficient balance
+Current Balance is: 50000
+-------------------------------------------------------------------------------------------------------------------------
+Output(Question 3):-
+
+Code By Aaroh Gaur(22BCS17238)
+Error: Complete 'Core Java' before enrolling in 'Advanced Java'.
+Aaroh completed Core Java.
+Aaroh enrolled in Advanced Java.
+Error: Complete 'Core Java' before enrolling in 'Advanced Java'.
